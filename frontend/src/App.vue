@@ -1,7 +1,1 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
-<template>
-  <HelloWorld />
-</template>
+﻿<template><router-view></router-view></template><script setup></script><style>body { margin: 0; padding: 0; background-color: #f5f5f5; }#app { width: 100%; height: 100%; max-width: unset; margin: 0; padding: 0;}</style>
